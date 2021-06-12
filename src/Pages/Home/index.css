@@ -1,0 +1,10 @@
+.home {
+    min-height: 100vh;
+}
+.banner {
+    
+}
+.banner-img {
+    height: 350px;
+    object-fit: cover;
+}
