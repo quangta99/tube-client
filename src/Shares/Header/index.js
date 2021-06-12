@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 import logo from "../../Assets/logo.svg";
 import "./header.css";
 
